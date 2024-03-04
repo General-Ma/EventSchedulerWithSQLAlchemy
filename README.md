@@ -14,12 +14,12 @@ python EventScheduler.py georef-australia-state-suburb.csv au.csv
 ```
 For Linux (default):
 ```bash
-  python3 EventScheduler.py georef-australia-state-suburb.csv au.csv
+python3 EventScheduler.py georef-australia-state-suburb.csv au.csv
 ```
 ## Debugger
 The in-built debugger can be optionally activated by setting the parameter in main function
 ```python
-  app.run(debug = True)
+app.run(debug = True)
 ```
 
 
