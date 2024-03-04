@@ -1,5 +1,4 @@
-nextperson-prisma v2
-
+# Event Scheduler
 This is a lightweight backend for event scheduler. This can also be used as a module/micro service
 - SQLAlchemy
 - SQLite
